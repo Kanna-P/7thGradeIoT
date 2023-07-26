@@ -1,2 +1,2 @@
-# Sakana's 7th grade IoT Project
+# Project IoT Kelas 7, Kelompok 3
 7th grade IoT project
