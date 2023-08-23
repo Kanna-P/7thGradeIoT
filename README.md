@@ -2,3 +2,4 @@
 7th grade IoT project
 
 ## Requirements
+* Arduino Uno
